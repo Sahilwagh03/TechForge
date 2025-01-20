@@ -8,9 +8,10 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        kassi_classic: ['Kassiclassic', 'sans-serif'],
+        aktivgrotesk: ['Aktivgrotesk', 'sans-serif'],
+        urbanist:['Urbanist','sans-serif']
       },
     },
   },
