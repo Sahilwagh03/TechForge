@@ -4,7 +4,7 @@ type Props = {}
 
 const Hero = (props: Props) => {
     return (
-        <section className='section-hero' data-w-id="4c4b03b0-4fbf-6327-536b-cf5879074c26">
+        <section className='section-hero h-full' data-w-id="4c4b03b0-4fbf-6327-536b-cf5879074c26">
             <div className="w-layout-blockcontainer container-1280 w-container">
                 <div className='h-[25rem] flex lg:hidden'>
                     {/* Image */}
